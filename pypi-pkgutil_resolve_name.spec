@@ -7,7 +7,7 @@
 #
 Name     : pypi-pkgutil_resolve_name
 Version  : 1.3.10
-Release  : 5
+Release  : 6
 URL      : https://files.pythonhosted.org/packages/70/f2/f2891a9dc37398696ddd945012b90ef8d0a034f0012e3f83c3f7a70b0f79/pkgutil_resolve_name-1.3.10.tar.gz
 Source0  : https://files.pythonhosted.org/packages/70/f2/f2891a9dc37398696ddd945012b90ef8d0a034f0012e3f83c3f7a70b0f79/pkgutil_resolve_name-1.3.10.tar.gz
 Summary  : Resolve a name to an object.
